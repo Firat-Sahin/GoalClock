@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addButton" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="counterTextView" type="id" />
+    <item name="startButton" type="id" />
+</resources>
